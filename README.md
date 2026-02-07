@@ -35,6 +35,27 @@ This project demonstrates core social media features such as user profiles, post
 - Mongoose ODM
 
 ---
+🧠 Future Improvements
 
-## 📂 Project Structure
+User authentication (Login & Signup)
+
+Comment system
+
+Follow / Unfollow users
+
+Profile pages
+
+Image uploads
+
+Better UI styling
+
+## 📂 Screenshots
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fc2d0887-a86a-4238-a539-552972f2cd49" />
+
+
+Author
+Developed by Sumant Markad
+
+
+
 
