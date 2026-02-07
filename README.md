@@ -53,9 +53,10 @@ Better UI styling
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fc2d0887-a86a-4238-a539-552972f2cd49" />
 
 
-Author
-Developed by Sumant Markad
+## 👨‍💻 Author
 
+Developed by **Sumant Markad**  
+Internship Project at **CodeAlpha**
 
 
 
